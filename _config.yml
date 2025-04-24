@@ -1,13 +1,5 @@
 title: Yajat Awasthi
-logo: "IMG_1496.png" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
+logo: "profile-pic.png"
+description: >
   High School Sophomore
-  <br><br>
-  
-  <br><br>
-  <a href=""></a> 
-  
 remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
